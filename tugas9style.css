@@ -1,0 +1,14 @@
+
+img{
+	z-index:-1;
+	width: 100%;
+	height: 100%;
+	position: absolute;
+}
+.paragraf{
+	background-color: white;
+	margin: 1% auto 5% 50%;
+	float: right;
+	font-weight: bold;
+	text-align: right;
+	}
